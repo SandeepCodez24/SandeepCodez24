@@ -1,12 +1,13 @@
 ### 👋 **Hello World! I'm Sandeep (@SandeepCodez24)**
 
 🚀 **Aspiring AI Engineer | B.Tech AI & DS (3rd Year)**  
-🌟 Passionate about building intelligent systems and pushing the boundaries of technology.
+🌟 Passionate about building intelligent systems and Development of Flutter Apps.
 
 ---
 
 ### 👀 **Interests**
 - Machine Learning and Deep Learning
+- Flutter App to implement AI
 - Natural Language Processing (NLP) and Computer Vision
 - AI for Social Good and Ethical AI
 
@@ -14,7 +15,8 @@
 
 ### 🌱 **Currently Learning**
 - Advanced Machine Learning Algorithms
-- Reinforcement Learning and AI Model Optimization
+- Node.js, Typescript, MongoDB
+- Flutter State Provider
 - Building Scalable AI Solutions
 
 ---
@@ -30,8 +32,9 @@
 ---
 
 ### 💞️ **Looking to Collaborate**
-- Open-source AI projects
-- Innovative problem-solving in AI applications
+- AI-projects
+- flutter application
+- Innovative collabaration of AI in Flutter Apps
 - Research in the field of Artificial Intelligence
 
 ---
