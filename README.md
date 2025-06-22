@@ -19,15 +19,13 @@
 
 ---
 
-### 💼 **Projects and Achievements**
-- 🧠 **Project Title #1**: *(Brief Description)*  
-  Example: Developed a deep learning model to classify medical images with 95% accuracy.
-- 🤖 **Project Title #2**: *(Brief Description)*  
-  Example: Created a chatbot using NLP techniques to improve customer service.
-- 📊 **Project Title #3**: *(Brief Description)*  
-  Example: Designed and implemented a recommendation system using collaborative filtering.
+## Projects and Achievements
 
-*(Feel free to replace these placeholders with your actual projects!)*
+🧠 ML_VERSE: Developed a no-code EDA (Exploratory Data Analysis) SaaS platform for college projects, enabling users to analyze datasets without writing code.
+
+💻 CMDreminder: Created an application to store and quickly retrieve CMD commands, improving personal workflow and productivity for frequent command-line users.
+
+🩸 blood-match-locator-app: Built for a hackathon, this app features a recommendation system that matches blood donors and hospitals based on distance, facilitating faster emergency responses.
 
 ---
 
